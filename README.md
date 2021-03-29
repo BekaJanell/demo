@@ -1,2 +1,4 @@
 # demo
-This is a practice for git.
+This is a practice for git. 
+* This is a change!
+
